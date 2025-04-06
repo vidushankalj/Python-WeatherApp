@@ -21,7 +21,7 @@ A simple desktop application built with Python and PyQt5 that fetches and displa
 8. Running a PyQt5 Application
 
 ## Screenshots
-weatherapp.png
+[weatherapp.png](https://github.com/vidushankalj/Python-WeatherApp/blob/master/weatherapp.png)
 
 
 
